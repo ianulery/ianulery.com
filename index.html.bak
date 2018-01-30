@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+
+		<!-- ==============================================
+		Title and Meta Tags
+		=============================================== -->
+		<meta charset="utf-8">
+		<title>Ian Ulery | Full-Stack Web Developer</title>
+		<meta name="description" content="I'm a full-stack web developer living in Los Angeles, California. I've worked for companies like NASA/JPL, AT&amp;T Interactive, and UCLA. I take pride in building high value web and mobile applications.">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- ==============================================
+		Favicons
+		=============================================== -->
+		<link rel="shortcut icon" href="assets/favicon.ico">
+		<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="assets/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="assets/apple-touch-icon-114x114.png">
+		
+		<!-- ==============================================
+		CSS
+		=============================================== -->    
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/font-awesome.css">
+		<link rel="stylesheet" href="css/flexslider.css">
+		<link rel="stylesheet" href="css/designr-theme-cyan.css">
+		<link rel="stylesheet" href="css/customizations.css">
+		
+		
+		<!-- ==============================================
+		Fonts
+		=============================================== -->
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900' rel='stylesheet' type='text/css'>
+		
+		<!-- ==============================================
+		JS
+		=============================================== -->
+			
+		<!--[if lt IE 9]>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+		
+		<script type="text/javascript" src="js/libs/modernizr.min.js"></script>
+		
+		
+	</head>
+  
+	<body data-spy="scroll" data-target="#main-nav" data-offset="200">
+	
+		<!-- ==============================================
+		MAIN NAV
+		=============================================== -->
+		<div id="main-nav" class="navbar navbar-fixed-top">
+			<div class="container">
+			
+				<div class="navbar-header">
+				
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#site-nav">
+						<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button>
+					
+					<!-- ======= LOGO ========-->
+					<a class="navbar-brand scrollto" href="#home">IAN ULERY<br><span>Full-Stack Web Developer</span></a>
+					<!-- <a class="navbar-brand scrollto ir-logo" href="#">JOHN DOE<br><span>UI Designer</span></a> -->
+				
+				</div>
+				
+				<div id="site-nav" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="sr-only">
+							<a href="#home" class="scrollto">Home</a>
+						</li>
+						<li>
+							<a href="#about" class="scrollto">About Me</a>
+						</li>
+						<li>
+							<a href="#services" class="scrollto">What I Do</a>
+						</li>
+						<li>
+							<a href="#clients" class="scrollto">Who I've Worked With</a>
+						</li>
+						<li>
+							<a href="#contact" class="scrollto">Contact Me</a>
+						</li>
+					</ul>
+				</div><!--End navbar-collapse -->
+				
+			</div><!--End container -->
+			
+		</div><!--End main-nav -->
+		
+		<!-- ==============================================
+		HEADER
+		=============================================== -->
+		<header id="home" class="jumbotron">
+		
+			<div class="container">
+			
+				
+				
+			</div><!--End container -->
+			
+		</header><!--End header -->
+		
+		<!-- ==============================================
+		ABOUT
+		=============================================== -->		
+		<section id="about">
+		
+			<div class="container">
+			
+				<div class="row">
+					<div class="col-sm-4 col-sm-offset-1 scrollimation fade-right">
+						<img class="img-responsive img-circle img-center" src="assets/about.jpg" alt="">
+					</div>
+					<div class="col-sm-6 col-sm-offset-1 scrollimation fade-left">
+						<h1>Hi, I'm Ian.</h1>
+						<p>I'm a full-stack web developer living in Los Angeles, California. I've worked for companies like <a target="_blank" href="http://jpl.nasa.gov">NASA's Jet Propulsion Laboratory</a> and <a target="_blank" href="http://www.attinteractive.com">AT&amp;T Interactive</a>, and currently work at <a target="_blank" href="http://www.ucla.edu">UCLA</a>. I take pride in building high value web and mobile applications. You can learn more about my professional background on <a href="http://www.linkedin.com/in/ianulery" target="_blank">LinkedIn</a>.</p>
+					</div>
+				</div><!--End row -->
+				
+			</div><!--End container -->
+			
+		</section><!--End about section -->
+
+		<!-- ==============================================
+		SKILLS
+		=============================================== -->			
+		
+	
+
+		<!-- ==============================================
+		SERVICES
+		=============================================== -->
+		<section id="services">
+		
+			<div class="container">
+			
+				<h1 class="section-title scrollimation scale-in">The <span>Services</span> I provide<i class="icon-wrench"></i></h1>
+				
+				<div class="row services scrollimation fade-left">
+					<div class="col-md-3 text-center">
+						<a href="#fakelink" class="icon"><i class="icon-code"></i></a>
+						<h2>Ruby on Rails Development</h2>
+					</div>
+					<div class="col-md-3 details">
+						<p>I've been working with the Rails framework for more than five years. I build web applications following agile and test-driven methodologies.</p>
+					</div>
+					<div class="col-md-3 text-center">
+						<a href="#fakelink" class="icon"><i class="icon-mobile-phone"></i></a>
+						<h2>iOS App Development</h2>
+					</div>
+					<div class="col-md-3 details">
+						<p>The iPhone and iPad Apps I've worked on have been <a target="_blank" href="http://gadgetwise.blogs.nytimes.com/2009/03/13/app-of-the-week-green-beer-edition/?_r=0" />featured by the New York Times</a> and <a target="_blank" href="http://www.jpl.nasa.gov/news/news.php?release=2012-407">downloaded more than a million times</a>.</p>
+					</div>
+				</div><!--End row (top) -->
+				
+				<div class="row line visible-md visible-lg">
+					<div class="col-md-3"><span class="spot"></span></div>
+					<div class="col-md-3"><span class="spot"></span></div>
+					<div class="col-md-3"><span class="spot"></span></div>
+					<div class="col-md-3"><span class="spot"></span></div>
+				</div><!--End row -->
+				
+				<div class="row services bottom-row scrollimation fade-right">
+					<div class="col-md-3 text-center col-md-push-3">
+						<h2>WordPress Customization</h2>
+						<a href="#fakelink" class="icon"><i class="icon-pencil"></i></a>
+					</div>
+					<div class="col-md-3 details col-md-pull-3">
+						<p>I routinely build out WordPress websites, customize off-the-shelf WordPress themes, and implement custom WordPress functionality.</p>
+					</div>
+					<div class="col-md-3 text-center  col-md-push-3">
+						<h2>Server Administration &amp; IT Consulting</h2>
+						<a href="#fakelink" class="icon"><i class="icon-rocket"></i></a>
+					</div>
+					<div class="col-md-3 details  col-md-pull-3">
+						<p>I provide IT consulting services for small businesses, and help organizations optimize and scale their web infrastructures.</p>
+					</div>
+				</div><!--End row (bottom)-->
+				
+			</div><!--End container -->
+			
+		</section><!--End services section-->
+
+
+		<section id="clients">
+
+			<div class="container">
+
+				<h1 class="section-title scrollimation scale-in" style="margin-bottom: 74px;">The <span>businesses</span> I've worked with<i class="icon-wrench"></i></h1>
+
+				<div class="row">
+
+					<div class="col-md-3">
+						<ul>
+							<li><a href="http://www.3inc.net" target="_blank">3inc., A Creative Group</a></li>
+							<li>805 Goods &amp; Apparel</li>
+							<li>Africa Dream Project</li>
+							<li><a href="http://www.anh-usa.org" target="_blank">Alliance for Natural Health, USA</a></li>
+							<li>Aloha Athletics</li>
+							<li><a href="http://www.apolisglobal.com/" target="_blank">Apolis</a></li>
+							<li>Barry A. Dorfman &amp; Co.</li>
+							<li><a href="http://www.bgi1.com" target="_blank">Black Gold Industries</a></li>
+							<li>Bob Pohl for State Assembly</li>
+							<li><a href="http://www.botany.org/" target="_blank">Botanical Society of America</a></li>
+							<li><a href="http://www.bragg.com/" target="_blank">Bragg Live Foods</a></li>
+							<li><a href="http://www.brianfrankphoto.com/" target="_blank">Brian Frank Photography</a></li>
+							<li><a href="http://www.centricecm.com" target="_blank">Centric ECM</a></li>
+
+							<li><a href="http://www.cinpost.com" target="_blank">Cinpost</a></li>
+							<li>Control Point Corporation</li>
+						</ul>
+					</div>
+
+					<div class="col-md-3">
+						<ul>
+							<li>Cook Better Live Better</li>
+							<li>Dream Green Earth</li>
+							<li>Echo Digital Audio Corporation</li>
+							<li>EvansHardy+Young</li>
+							<li>Emilio's Restaurant</li>
+							<li>Engineering Conferences International</li>
+							<li>Events of Santa Barbara</li>
+							<li>FENTON</li>
+							<li>Garrison Sports Group</li>
+							<li>JJ Villard</li>
+							<li>Kitty Stallings</li>
+							<li>Los Arroyos Restaurants</li>
+							<li>Minasian Family</li>
+							<li>Monica Campbell</li>
+						</ul>
+					</div>
+
+					<div class="col-md-3">
+						<ul>
+							<li>Ocean Heiress</li>
+							<li>Patrick Moyer Photography</li>
+							<li>Raveco Holistic Dental Center</li>
+							<li>Razon Photography Collective</li>
+							<li>Richard Mann</li>
+							<li>Santa Barbara High School</li>
+							<li>Santa Barbara Vacation Retreats</li>
+							<li>Scott Lisea</li>
+							<li>SellSimple</li>
+							<li>Sheryl Lowe Designs</li>
+							<li>Southern California Institute of Law</li>
+							<li>StudioSox</li>
+						</ul>
+					</div>
+
+					<div class="col-md-3">
+						<ul>
+							<li>The American Health Institute</li>
+							<li>The Laurel Company</li>
+							<li>The Tanning Club</li>
+							<li>The Traditional Support Caravan</li>
+							<li>Trace Robinson</li>
+							<li>Tracy Bradley Designs</li>
+							<li>Trilogy Firescreens</li>
+							<li>Trinity Episcopal Church</li>
+							<li>Troy Kindred</li>
+							<li>Turtle’s Frozen Drinks</li>
+							<li>Ventura Bike Depot</li>
+							<li>Vickie Patik</li>
+							<li>Wendy Ramsay</li>
+						</ul>
+					</div>
+
+				</div>
+
+			</div>
+
+		</section>
+	
+		
+		<!-- ==============================================
+		TWITTER FEED
+		=============================================== -->	
+		<section id="twitter">
+			<div class="container">
+				<div class="row scrollimation fade-in">
+					<div class="col-sm-1 twitter-icon">
+						<i class="icon-twitter"></i>
+					</div>
+					<div class="col-sm-11">
+						<div id="twitter-slider" class="flexslider" data-widget-id="422233906968936448" data-tweets-length="5">
+						
+						</div>
+					</div>
+				</div><!-- End row -->
+			</div><!-- End container -->
+			
+		</section><!-- End Twitter section -->
+
+		<!-- ==============================================
+		CONTACT
+		=============================================== -->	
+		<section  id="contact">
+		
+			<div class="container">
+			
+				<h1 class="section-title scrollimation scale-in">Let's <span>Talk</span></h1>
+				
+				<div class="row">
+				
+					<div class="col-sm-5 contact-info scrollimation fade-right">
+						
+						<!--<p>I'm happy to help with your next project. </p>-->
+						
+						
+						<ul class="socials">
+							<li><a href="http://www.twitter.com/ianulery" target="_blank"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/iulery" target="_blank"><i class="icon-facebook"></i></a></li>
+							<li><a href="http://www.linkedin.com/in/ianulery" target="_blank"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/iulery" target="_blank"><i class="icon-github"></i></a></li>
+						</ul>
+						
+					</div>
+					
+					<!--=== Contact Form ===-->
+
+					<form id="contact-form" class="col-sm-7 scrollimation fade-left" action="contact.php" method="post" novalidate>
+						
+						<div class="form-group">
+						  <label class="control-label" for="contact-name">Name</label>
+						  <div class="controls">
+							<i class="icon-user"></i>
+							<input id="contact-name" name="contactName" placeholder="My name is..." class="form-control input-lg requiredField" type="text" data-error-empty="Please enter your name">
+						  </div>
+						</div><!-- End name input -->
+						
+						<div class="form-group">
+						  <label class="control-label" for="contact-mail">Email</label>
+						  <div class=" controls">
+							<i class="icon-envelope"></i>
+							<input id="contact-mail" name="email" placeholder="My e-mail address is..." class="form-control input-lg requiredField" type="email" data-error-empty="Please enter your e-mail" data-error-invalid="Invalid e-mail address">
+						  </div>
+						</div><!-- End email input -->
+						
+						<div class="form-group">
+						  <label class="control-label" for="contact-message">Message</label>
+							<div class="controls">
+								<i class="icon-comment"></i>
+								<textarea id="contact-message" name="comments"  placeholder="I'd like to discuss..." class="form-control input-lg requiredField" rows="5" data-error-empty="Please enter your message"></textarea>
+							</div>
+						</div><!-- End textarea -->
+						
+						<p><button name="submit" type="submit" class="btn btn-theme btn-lg" data-error-message="Error!" data-sending-message="Sending..." data-ok-message="Message Sent"><i class="icon-location-arrow"></i>Send Message</button></p>
+						<input type="hidden" name="submitted" id="submitted" value="true" />
+						
+					</form><!-- End contact-form -->
+				  
+				</div><!-- End row -->
+				
+			</div><!-- End container -->
+			
+		</section><!-- End contact section -->
+		
+		<!-- ==============================================
+		FOOTER
+		=============================================== -->	
+		<footer id="main-footer">
+		
+			<div class="container">
+			
+				<div class="row">
+				
+					<div class="col-sm-6 left-col">
+						<h1 class="small-logo">IAN ULERY<br><span>Full-Stack Web Developer</span></h1>
+	
+						<p>&copy; 2014</p>
+					</div>
+					
+					<div class="col-sm-6 right-col">
+						<h2>Who Am I?</h2>
+						<p>I'm a full-stack web developer located in Los Angeles, California. I specialize in Ruby on Rails web application development, iOS mobile application development, user interface design, and server administration.</p>
+					</div>
+					
+				</div><!-- End row -->
+				
+			</div><!-- End container -->
+			
+		</footer><!-- End footer -->
+
+		<!-- ==============================================
+		SCRIPTS
+		=============================================== -->	
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="js/libs/jquery-1.8.2.min.js">\x3C/script>')</script>
+		
+		<script src="js/libs/bootstrap.min.js"></script>
+		<script src='js/jquery.scrollto.js'></script>
+		<script src='js/jquery.flexslider.min.js'></script>
+		<script src='js/jquery.masonry.min.js'></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/jquery.easypiechart.js"></script>
+		<script src="js/jquery.backstretch.min.js"></script>
+		<script src="js/contact.js"></script>
+		<script src="js/designr.js"></script>
+		
+	</body>
+	
+</html>
