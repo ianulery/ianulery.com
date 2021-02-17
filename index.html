@@ -300,8 +300,11 @@
           
           <!--=== Contact Form ===-->
 
-          <form id="contact-form" class="col-sm-7 scrollimation fade-left" action="contact.php" method="post" novalidate>
-            
+          <form id="contact-form" class="col-sm-7 scrollimation fade-left" method="post" novalidate data-netlify="true" netlify-honeypot="contact-comments">
+            <p style="display: none;">
+              <label>Comments about your project: <input name="contact-comments" /></label>
+            </p>
+
             <div class="form-group">
               <label class="control-label" for="contact-name">Name</label>
               <div class="controls">
