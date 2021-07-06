@@ -1,2 +1,6 @@
+User-agent: *
+Disallow: /assets/header-bg.jpg
+Disallow: /assets/contact-bg.jpg
+
 User-agent: URLmetrics
 Disallow: /
